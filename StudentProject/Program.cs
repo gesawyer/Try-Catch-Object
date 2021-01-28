@@ -103,7 +103,7 @@ namespace StudentProject
             }
             else
             {
-				Console.WriteLine("try again bitch");
+				Console.WriteLine("try again");
             }
 
 
