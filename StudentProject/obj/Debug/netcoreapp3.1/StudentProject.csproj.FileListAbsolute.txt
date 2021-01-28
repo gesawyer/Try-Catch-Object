@@ -1,0 +1,13 @@
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.exe
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.deps.json
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.runtimeconfig.json
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.runtimeconfig.dev.json
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.dll
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.pdb
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.csprojAssemblyReference.cache
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.AssemblyInfoInputs.cache
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.AssemblyInfo.cs
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.csproj.CoreCompileInputs.cache
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.dll
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.pdb
+C:\Users\grace\OneDrive\Desktop\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.genruntimeconfig.cache
